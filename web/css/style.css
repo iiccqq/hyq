@@ -1,0 +1,116 @@
+*{
+	font-family: "microsoft yahei", "PingFang";
+	color: #535c66;
+	letter-spacing: 0.1em;
+  margin:0 0;
+  padding: 0 0;
+}
+
+.title{
+  font-size: 50px;
+  font-weight: 150;
+  text-align: center;
+}
+
+.center{
+  width:1000px;
+  margin: 0 auto;
+  }
+
+  .light_font{
+    color:white;
+  }
+
+  .dark_font{
+    color:rgb(34, 31, 31);
+  }
+
+  .tit1 {
+    font-size: 30px;
+    color: #a851ed;
+    line-height: 60px;
+    padding: 0 20px;
+    border-radius: 10px;
+    background: #fff;
+    display: inline-block;
+    font-weight: lighter;
+    position: absolute;
+    left: 0px;
+    top: 50px;
+}
+.content1{
+  font-weight: bold;
+    font-size: 80px;
+    letter-spacing: 4px;
+    padding-top: 23px;
+    padding-bottom: 40px;
+    margin: 0;
+    text-shadow: 0 3px 7px rgba(0, 0, 0, .35);
+    position: absolute;
+    top: 100px;
+}
+
+#top_banner{
+    background: linear-gradient(124deg, #a851ed, #f52c79);
+    height: 650px;
+    width: 100%;
+    padding-top: 40px;
+}
+
+#bottom_banner{
+  background-color: #535c66;
+  height: 120px;
+}
+
+
+#class_intro{
+  height: 600px;
+  width: 100%;
+  padding-top: 40px;
+  background-color: #f1ebeb;
+  
+}
+
+.class_box{
+  border-radius: 16px;
+  background-color: white;
+    height: 210px;
+    margin-top: 10px;
+}
+
+.class_title{
+  font-weight: bold;
+    font-size: 30px;
+    color: rgb(206, 13, 158);
+    padding: 10px;
+}
+.class_content{
+padding: 10px;
+}
+
+#student_articles{
+      background: linear-gradient(124deg, #34f3e3, #2cc9f5);
+      height: 650px;
+      width: 100%;
+      padding-top: 40px;
+}
+
+#student_articles .img{
+  float: left;
+  width: 30%;
+  height: 240px;
+  text-align: center;
+  margin:15px;
+  background-color: aliceblue;
+  border-radius: 6px;
+}
+
+#student_articles .text{
+  height: 80px;
+  text-align: center;
+}
+
+#student_articles img{
+  width: 100%;
+  height: 200px;
+}
